@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "4b2f25c9bbb73cef",
+    "type": "split",
+    "children": [
+      {
+        "id": "072e98638532381b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ede2c964659881",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Eletromagnetismo clássico/Equação de Onda Meio Linear I.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Equação de Onda Meio Linear I"
+            }
+          },
+          {
+            "id": "f96a20c8ade3a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34d9490c96b58e23",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d32fafa19ed5684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d18c78e3593045a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1322022e3c5cc616",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5e43eb6c50578f7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2a0a6554fa8f67b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd1d5fe1a763271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "094f82209f5e9ce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Bem-vindo"
+            }
+          },
+          {
+            "id": "8e83ec3a75597af6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "c439301a4f765cae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "732e00f560ebd9e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "7bf52f9e9cdd8721",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "xournalpp:Create new Xournal++ note": false,
+      "handwritten-notes:Create empty handwritten note": false
+    }
+  },
+  "active": "24ede2c964659881",
+  "lastOpenFiles": [
+    "Eletromagnetismo clássico/Teste Equação de Onda meio Linear I.md",
+    "Anexos/Pasted image 20260608211319.png",
+    "Eletromagnetismo clássico/Equação de Onda Meio Linear I.md",
+    "Anexos/Pasted image 20260608211306.png",
+    "Anexos/Pasted image 20260608211251.png",
+    "Anexos/Pasted image 20260608211239.png",
+    "Anexos/Pasted image 20260608211219.png",
+    "Anexos/Pasted image 20260608211158.png",
+    "Anexos/Pasted image 20260608211144.png",
+    "Anexos/Pasted image 20260608211127.png",
+    "Anexos/Pasted image 20260608211105.png",
+    "Anexos/Pasted image 20260608211010.png",
+    "Anexos",
+    "Eletromagnetismo clássico/Equação de Onda Meio Linear II.md",
+    "Eletromagnetismo clássico/Equação de Onda Meio Não Linear I.md",
+    "handwritten-notes/New note.pdf",
+    "handwritten-notes",
+    "Estudos de Fotônica/ydhf.xopp",
+    "Estudos de Fotônica/testtt.xopp",
+    "Eletromagnetismo clássico/Equação de Onda P e M.md",
+    "Eletromagnetismo clássico/Equação de Onda E e B.md",
+    "Eletromagnetismo clássico/teste.xopp",
+    "Eletromagnetismo clássico/Equação de Onda Meio Não Linear II.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-08 20.41.17.excalidraw.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-08 20.39.52.excalidraw.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-08 20.25.01.excalidraw.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-08 17.59.20.excalidraw.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-08 17.15.52.excalidraw.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-08 16.54.59.excalidraw.md",
+    "Eletromagnetismo clássico/rascunho.md",
+    "Eletromagnetismo clássico/Equação de Onda D e H.md",
+    "Eletromagnetismo clássico/Campos Harmônicos.md",
+    "Eletromagnetismo clássico/Equação da Continuidade.md",
+    "Eletromagnetismo clássico/Drawing 2026-06-07 09.41.29.excalidraw.md",
+    "Deduções/Equação de onda.md",
+    "Excalidraw/Drawing 2026-05-29 22.05.45.excalidraw.md",
+    "Eletromagnetismo clássico",
+    "Fabricação de Fibra Óptica/Polymers/Cleaning, drying and Annealing.md",
+    "Fabricação de Fibra Óptica/Polymers/Preform Confection Methods/Stacking.md",
+    "Sem título.md",
+    "Excalidraw",
+    "Fabricação de Fibra Óptica/Polymers/Pulling Procedure.md",
+    "Fabricação de Fibra Óptica/Polymers/Preform Confection Methods/Injection Molding.md",
+    "Fabricação de Fibra Óptica/Polymers/Preform Confection Methods",
+    "Fabricação de Fibra Óptica/Polymers",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}
