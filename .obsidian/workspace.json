@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "072e98638532381b",
+        "id": "da281ae0b1ac3c92",
         "type": "tabs",
         "children": [
           {
-            "id": "24ede2c964659881",
+            "id": "40112552075e69f9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Eletromagnetismo clássico/Equação de Onda Meio Linear I.md"
+                "file": "FI001 - Óptica e Fotônica/Lista 2 (1S2026).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Equação de Onda Meio Linear I"
-            }
-          },
-          {
-            "id": "f96a20c8ade3a9cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Lista 2 (1S2026)"
             }
           }
         ]
@@ -86,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2a0a6554fa8f67b9",
@@ -191,24 +182,30 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "xournalpp:Create new Xournal++ note": false,
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "24ede2c964659881",
+  "active": "40112552075e69f9",
   "lastOpenFiles": [
-    "Eletromagnetismo clássico/Teste Equação de Onda meio Linear I.md",
-    "Anexos/Pasted image 20260608211319.png",
+    "FI001 - Óptica e Fotônica/Lista 2 (1S2026) - Resolvida.pdf",
+    "Anexos/Pasted image 20260616010051.png",
+    "Anexos/Pasted image 20260616005955.png",
+    "Anexos/Pasted image 20260616005707.png",
+    "Anexos/Pasted image 20260616004445.png",
+    "FI001 - Óptica e Fotônica/Prova 2 (1S2026).md",
+    "FI001 - Óptica e Fotônica/Prova 2 (1S2026) - Resolvida.pdf",
+    "FI001 - Óptica e Fotônica/Lista 2 (1S2026).md",
+    "Anexos/Pasted image 20260616003338.png",
+    "Anexos/Pasted image 20260615221823.png",
+    "Anexos/Pasted image 20260615221637.png",
+    "Anexos/Pasted image 20260615220535.png",
+    "Anexos/Pasted image 20260615220516.png",
+    "Anexos/Pasted image 20260615205231.png",
+    "FI001 - Óptica e Fotônica/Teste 2 (antigo) - Resolucao.pdf",
+    "FI001 - Óptica e Fotônica/Prova 2 (antiga).md",
+    "FI001 - Óptica e Fotônica/Óptica e Fotônica (FI177).md",
     "Eletromagnetismo clássico/Equação de Onda Meio Linear I.md",
-    "Anexos/Pasted image 20260608211306.png",
-    "Anexos/Pasted image 20260608211251.png",
-    "Anexos/Pasted image 20260608211239.png",
-    "Anexos/Pasted image 20260608211219.png",
-    "Anexos/Pasted image 20260608211158.png",
-    "Anexos/Pasted image 20260608211144.png",
-    "Anexos/Pasted image 20260608211127.png",
-    "Anexos/Pasted image 20260608211105.png",
-    "Anexos/Pasted image 20260608211010.png",
+    "Eletromagnetismo clássico/Teste Equação de Onda meio Linear I.md",
     "Anexos",
     "Eletromagnetismo clássico/Equação de Onda Meio Linear II.md",
     "Eletromagnetismo clássico/Equação de Onda Meio Não Linear I.md",
@@ -235,13 +232,7 @@
     "Excalidraw/Drawing 2026-05-29 22.05.45.excalidraw.md",
     "Eletromagnetismo clássico",
     "Fabricação de Fibra Óptica/Polymers/Cleaning, drying and Annealing.md",
-    "Fabricação de Fibra Óptica/Polymers/Preform Confection Methods/Stacking.md",
-    "Sem título.md",
     "Excalidraw",
-    "Fabricação de Fibra Óptica/Polymers/Pulling Procedure.md",
-    "Fabricação de Fibra Óptica/Polymers/Preform Confection Methods/Injection Molding.md",
-    "Fabricação de Fibra Óptica/Polymers/Preform Confection Methods",
-    "Fabricação de Fibra Óptica/Polymers",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]
